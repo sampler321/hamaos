@@ -1,0 +1,16 @@
+# Hama's firmware and anything derived from it stays local (copyrighted)
+*.bin
+work/
+extracted/
+dumps/
+# generated from a system font
+sdk/rt/font.h
+# build output
+sdk/build/
+loader/out/
+sdk/test/shots/
+sdk/test/sd/
+sdk/test/lfi/
+sdk/test/internal/
+sdk/test/harness
+.DS_Store
